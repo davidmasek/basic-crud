@@ -1,0 +1,13 @@
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+}
+.page-header h1{
+    margin-top: 0;
+}
+table tr td a{
+    margin-left: 40%;
+}
+td.number {
+    text-align: right;
+}
